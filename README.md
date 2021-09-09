@@ -4,5 +4,8 @@
 
 [![beeench1's GitHub stats](https://github-readme-stats.vercel.app/api?username=beeench1)](https://github.com/anuraghazra/github-readme-stats)
 
+![beeench's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
+
+
 ![20170912150437_pvsuourk](README.assets/20170912150437_pvsuourk.jpg)
 
